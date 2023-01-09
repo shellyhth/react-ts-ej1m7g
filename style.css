@@ -1,0 +1,27 @@
+img {
+  border: 3px solid black;
+  display: block;
+  margin: 2%;
+  width: 90%;
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+button {
+  size: 10px;
+}
+.container {
+  display: block flex;
+  grid-template-columns: auto auto auto auto;
+  gap: 5px;
+  background-color: #edcfa9;
+  padding: 5px;
+}
+
+div {
+  background-color: FFC3A1;
+  border: 1px solid #e89f71;
+  text-align: center;
+  font-size: 30px;
+}
